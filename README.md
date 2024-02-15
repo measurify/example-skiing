@@ -16,8 +16,9 @@ Finally, the data is sent to an API Framework called [Measurify](https://measuri
 ## Hardware
 The board used is a [Arduino Nano 33 BLE Sense](https://docs.arduino.cc/hardware/nano-33-ble-sense)
 
-![arduino con batteria custom](images/ArduinoBC.jpg)
 ![arduino con powerbank](images/ArduinoPB.jpg)
+![arduino con batteria custom](images/ArduinoBC.jpg)
+
 
 ## Software
 The necessary code is:
