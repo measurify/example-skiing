@@ -1,0 +1,45 @@
+1<?xml version="1.0" encoding="utf-8"?>
+2<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+3    package="com.example.quick_blue" >
+4
+5    <uses-sdk android:minSdkVersion="21" />
+5-->C:\Users\fillo\Downloads\smart-collector-main\smart-collector-main\quick_blue\android\src\main\AndroidManifest.xml
+6
+7    <uses-permission
+7-->C:\Users\fillo\Downloads\smart-collector-main\smart-collector-main\quick_blue\android\src\main\AndroidManifest.xml:3:3-4:56
+8        android:name="android.permission.BLUETOOTH_SCAN"
+8-->C:\Users\fillo\Downloads\smart-collector-main\smart-collector-main\quick_blue\android\src\main\AndroidManifest.xml:3:20-68
+9        android:usesPermissionFlags="neverForLocation" />
+9-->C:\Users\fillo\Downloads\smart-collector-main\smart-collector-main\quick_blue\android\src\main\AndroidManifest.xml:4:7-53
+10    <uses-permission android:name="android.permission.BLUETOOTH_CONNECT" />
+10-->C:\Users\fillo\Downloads\smart-collector-main\smart-collector-main\quick_blue\android\src\main\AndroidManifest.xml:5:3-74
+10-->C:\Users\fillo\Downloads\smart-collector-main\smart-collector-main\quick_blue\android\src\main\AndroidManifest.xml:5:20-71
+11
+12    <!-- legacy for Android 11 or lower -->
+13    <uses-permission
+13-->C:\Users\fillo\Downloads\smart-collector-main\smart-collector-main\quick_blue\android\src\main\AndroidManifest.xml:8:3-9:36
+14        android:name="android.permission.BLUETOOTH"
+14-->C:\Users\fillo\Downloads\smart-collector-main\smart-collector-main\quick_blue\android\src\main\AndroidManifest.xml:8:20-63
+15        android:maxSdkVersion="30" />
+15-->C:\Users\fillo\Downloads\smart-collector-main\smart-collector-main\quick_blue\android\src\main\AndroidManifest.xml:9:7-33
+16    <uses-permission
+16-->C:\Users\fillo\Downloads\smart-collector-main\smart-collector-main\quick_blue\android\src\main\AndroidManifest.xml:10:3-11:36
+17        android:name="android.permission.BLUETOOTH_ADMIN"
+17-->C:\Users\fillo\Downloads\smart-collector-main\smart-collector-main\quick_blue\android\src\main\AndroidManifest.xml:10:20-69
+18        android:maxSdkVersion="30" />
+18-->C:\Users\fillo\Downloads\smart-collector-main\smart-collector-main\quick_blue\android\src\main\AndroidManifest.xml:11:7-33
+19    <uses-permission
+19-->C:\Users\fillo\Downloads\smart-collector-main\smart-collector-main\quick_blue\android\src\main\AndroidManifest.xml:12:3-13:36
+20        android:name="android.permission.ACCESS_FINE_LOCATION"
+20-->C:\Users\fillo\Downloads\smart-collector-main\smart-collector-main\quick_blue\android\src\main\AndroidManifest.xml:12:20-74
+21        android:maxSdkVersion="30" />
+21-->C:\Users\fillo\Downloads\smart-collector-main\smart-collector-main\quick_blue\android\src\main\AndroidManifest.xml:13:7-33
+22    <!-- legacy for Android 9 or lower -->
+23    <uses-permission
+23-->C:\Users\fillo\Downloads\smart-collector-main\smart-collector-main\quick_blue\android\src\main\AndroidManifest.xml:15:3-16:36
+24        android:name="android.permission.ACCESS_COARSE_LOCATION"
+24-->C:\Users\fillo\Downloads\smart-collector-main\smart-collector-main\quick_blue\android\src\main\AndroidManifest.xml:15:20-76
+25        android:maxSdkVersion="28" />
+25-->C:\Users\fillo\Downloads\smart-collector-main\smart-collector-main\quick_blue\android\src\main\AndroidManifest.xml:16:7-33
+26
+27</manifest>
