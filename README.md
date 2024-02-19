@@ -11,7 +11,7 @@ and pushing. The acquired data is transmitted to a mobile device connected to th
 Bluetooth Low Energy (BLE) technology, via an application developed using the Flutter framework.
 Finally, the data is sent to an API Framework called [Measurify](https://measurify.org/).
 
-![workflow](images/SCI_SCHEMA_FINALE.jpg)
+![Workflow](images/Workflow.jpg)
 
 ## Hardware
 The board used is a [Arduino Nano 33 BLE Sense](https://docs.arduino.cc/hardware/nano-33-ble-sense)
